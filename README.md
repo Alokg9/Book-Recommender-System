@@ -95,7 +95,7 @@ here is a demo,
 Clone the repository
 
 ```bash
-https:/book-recommender-system-g3khezbi1-aloks-projects-01331cfc.vercel.app
+https://book-recommender-system-g3khezbi1-aloks-projects-01331cfc.vercel.app
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
